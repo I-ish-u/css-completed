@@ -1,0 +1,21 @@
+/* class selector */
+.webtext{
+    color:blueviolet
+}
+
+/* id selector */
+#one{
+    color: blue;
+}
+
+/* universal selector */
+*{
+    text-align: center;
+}
+
+/* pseudo class selector */
+
+a:hover {
+    color: #ff0000;
+    font-size: 22px;
+} 

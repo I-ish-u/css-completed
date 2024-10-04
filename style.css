@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(195, 139, 247);
+}
+
+nav{
+    background-color: blue;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    color: blueviolet;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 30px;
+}
+
+p{
+
+    color:rgb(200, 160, 180);
+}
+
+li{
+    display: inline-block;
+}
